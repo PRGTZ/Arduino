@@ -1,5 +1,4 @@
 # Mixtli
-Descripción mamalona en progreso
 
 Prove con varios gradientes para encontrar los bordes de la imagenes. Se espera que el drone capture imagen y la transforme con Canny Edge Detection. 
 
